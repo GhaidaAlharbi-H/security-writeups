@@ -1,6 +1,6 @@
 # security-writeups
 
-Writeups from web security labs and challenges.
+Technical writeups of web application vulnerabilities: exploit chains, impact analysis, and remediation.
 
 ## Writeups
 
